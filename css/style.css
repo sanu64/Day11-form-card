@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    color: black;
+    margin: auto;
+    width: 50%;
+}
+.container{
+background-color:white;
+height: 340px;
+width: 620px;
+}
+.container1{
+    border: 2px solid rgb(12, 12, 12);
+    height: 320px;
+    width: 600px;  
+}
+div, div > input{
+    padding: 0.5rem;
+}
+p{
+    background-color: red;
+    color: rgb(248, 244, 244);
+    font-family: cursive;
+    margin: auto;
+    padding: 0.5rem;
+    display: flex;
+    justify-content: center;
+}
+form{
+    background-color: rgb(248, 244, 244);
+}
